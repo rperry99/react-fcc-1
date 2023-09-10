@@ -1,4 +1,4 @@
-# React Project 1
+# React Project 1 - Static Webpage
 
 This project is to make a static website using react. This was taken from the Scrimba course (on YouTube) found [here](https://youtu.be/bMknfKXIFA8?si=79X7X_NJGD4zHUD0).
 
