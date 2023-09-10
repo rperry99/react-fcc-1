@@ -6,3 +6,4 @@ This project is to make a static website using react. This was taken from the Sc
 
 - A static website using react.
 - React was implemented for this project using the [CDN version](https://legacy.reactjs.org/docs/cdn-links.html), and not the normal method. This was meant to be a quick and dirty type of project.
+- Uses Babel to transpile modern JavaScript syntac into code that can run in all environments.
