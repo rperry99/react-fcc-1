@@ -1,13 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 // Get the root in a variable
 const rootElement = document.getElementById('root');
-
-// Writing to the DOM with React
-ReactDOM.render(
-  <div>
-    <NavBar />
-  </div>,
-  rootElement
-);
 
 // Example of a custom react component
 function MainContent() {
@@ -35,6 +30,14 @@ function NavBar() {
     </nav>
   );
 }
+
+// Writing to the DOM with React
+ReactDOM.render(
+  <div>
+    <NavBar />
+  </div>,
+  rootElement
+);
 
 // // This was a challenge to write to the dom using vanilla JS.
 // // Specifically said to not use innerHTML().
